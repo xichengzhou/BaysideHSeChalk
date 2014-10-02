@@ -1,0 +1,564 @@
+{
+	"folder_history":
+	[
+		"/E/pyproject/hello",
+		"/C/Users/lgao2441/Google Drive/Smash",
+		"/E/TreSensa/Smash",
+		"/D/Google Drive/Tomatto",
+		"/E/Tomatto",
+		"/C/Users/Ru/Desktop/Tomatto",
+		"/D/Downloads/tomatto",
+		"/D/Downloads/hello-world/hello-world",
+		"/C/Users/Ru/Desktop/Game",
+		"/C/Users/Ru/Desktop/Teemo",
+		"/D/Downloads/flappy_bird_final"
+	],
+	"last_version": 3065,
+	"last_window_id": 17,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 491.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mo",
+						"Moment"
+					],
+					[
+						"pr",
+						"prototype"
+					],
+					[
+						"game",
+						"game_div"
+					],
+					[
+						"twbird",
+						"twbirdAnim"
+					],
+					[
+						"sp",
+						"spriteSheetAnim"
+					],
+					[
+						"sprite",
+						"spriteSheetAnim"
+					],
+					[
+						"soni",
+						"sonic"
+					],
+					[
+						"spd",
+						"spider"
+					],
+					[
+						"ar",
+						"article	Tag"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/s1/Desktop/new.html",
+				"/E/pyproject/hello/templates/index.html",
+				"/E/pyproject/hello/templates/user.html",
+				"/E/pyproject/hello/templates/404.html",
+				"/E/pyproject/hello/templates/base.html",
+				"/E/pyproject/hello/hello.py",
+				"/E/pyproject/hello/session.py",
+				"/C/Users/lgao2441/Google Drive/Smash/MyGame.js",
+				"/C/Users/lgao2441/Google Drive/Smash/screens/StartScreen.js",
+				"/C/Users/lgao2441/Google Drive/Smash/index.htm",
+				"/E/TreSensa/Pixsea/Runner/js/game/Level.js",
+				"/E/TreSensa/Pixsea/Runner/js/game/ObjectClasses/Player.js",
+				"/E/TreSensa/Pixsea/Runner/js/game/Screens/GameScreen.js",
+				"/D/Google Drive/Tomatto/screens/Loading.js",
+				"/D/Google Drive/Tomatto/screens/StartScreen.js",
+				"/D/Google Drive/Tomatto/index.htm",
+				"/D/Google Drive/Tomatto/MyGame.js",
+				"/D/Google Drive/Tomatto/screens/GameScreen.js",
+				"/D/Google Drive/Tomatto/Pixsea/Runner/js/game/Screens/StartScreen.js",
+				"/D/Google Drive/Tomatto/Pixsea/Runner/js/lib/playnomics.min.js",
+				"/D/Google Drive/Tomatto/Pixsea/Runner/js/game/ObjectClasses/MovingObstacle.js",
+				"/D/Google Drive/Tomatto/Pixsea/Runner/js/game/Runner.js",
+				"/D/Google Drive/Tomatto/Pixsea/Runner/js/game/Level.js",
+				"/D/Google Drive/Tomatto/ui/GameScreen.js",
+				"/D/Google Drive/Tomatto/Pixsea/Runner/index.html",
+				"/D/Google Drive/Tomatto/Pixsea/Runner/js/GameConfig.js",
+				"/C/Users/Ru/Desktop/Tomatto/js/main.js",
+				"/C/Users/Ru/Documents/tomatto/sprite.js",
+				"/C/Users/Ru/Desktop/Swiffy output.htm",
+				"/D/Downloads/hello-world/hello-world/phaser.min.js",
+				"/D/Downloads/ShowMyCode.com/14009534_script69_MC115F8.as",
+				"/D/Downloads/ShowMyCode.com/14009534_script02_F10.as",
+				"/E/pybird-master/gamelib.py",
+				"/E/TreSensa/Demo1a/ui/GameScreen.js",
+				"/C/Users/lgao2441/Downloads/randomGenProb1 (2).txt",
+				"/E/TreSensa/Demo1b/ui/GameScreen.js",
+				"/E/TreSensa/Demo1b/MyGame.js",
+				"/E/TreSensa/Demo1b/ui/Loading.js",
+				"/E/TreSensa/Demo1a/index.htm",
+				"/E/TreSensa/Demo1a/MyGame.js",
+				"/E/TreSensa/Demo1b/index.htm",
+				"/F/TreSensa/Demo1b/MyGame.js",
+				"/E/sharpvision/css/style.css",
+				"/E/sharpvision/about.html",
+				"/E/sharpvision/style.min.css",
+				"/C/Users/Liang/Desktop/Sharp Vision.htm",
+				"/E/Sharp Vision.htm",
+				"/E/sharpvision/index.html",
+				"/F/sharpvision/css/style.css",
+				"/E/sharpvision/icons.html",
+				"/F/Sharp Vision.htm",
+				"/F/sharpvision/index.html",
+				"/F/Icon/style.min.css",
+				"/F/sharpvision/icons.html",
+				"/F/Icon/Footer w icon_files/css",
+				"/E/sharpvision/js/script.js",
+				"/E/Sharp Vision_files/script.js",
+				"/E/sharpvision/linking.html",
+				"/E/Sharp Vision_files/parallaxslider.css",
+				"/C/Users/lgao2441/Downloads/ParallaxContentSlider/js/jquery.cslider.js",
+				"/E/Sharp Vision_files/jquery.cslider.js",
+				"/C/Users/lgao2441/Downloads/ParallaxContentSlider/js/modernizr.custom.28468.js",
+				"/E/Sharp Vision_files/modernizr.custom.js",
+				"/C/Users/lgao2441/Downloads/ParallaxSlider/css/style.css",
+				"/F/Sharp Vision_files/jquery.cslider.js",
+				"/F/Sharp Vision_files/script.js"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"gotoAndStop",
+					"spriteSheetAnim"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 163.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1001.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"mo",
+						"Moment"
+					],
+					[
+						"pr",
+						"prototype"
+					],
+					[
+						"game",
+						"game_div"
+					],
+					[
+						"twbird",
+						"twbirdAnim"
+					],
+					[
+						"sp",
+						"spriteSheetAnim"
+					],
+					[
+						"sprite",
+						"spriteSheetAnim"
+					],
+					[
+						"soni",
+						"sonic"
+					],
+					[
+						"spd",
+						"spider"
+					],
+					[
+						"ar",
+						"article	Tag"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "<html>\n<head>\n\n<title>Containers</title>\n<style type=\"text/css\">\n	\n	.container{\n			background-color: white;\n			width: 65%;\n			margin-left: 17.5%;\n			margin-top: 3%;\n			padding: 5px;\n	}\n\n	\n	#quickLinks{\n		background-color: orange;\n		width:100%;\n		height: 20px;\n		border-bottom: 1px dashed white;\n		}\n	#quickLinks ul{\n		list-style-type: none;\n		\n	}\n	\n	#logo{\n		background-color: yellow;\n		width:100%;\n		height: auto;\n	}\n	#logo img{\n		width: 100%;\n	}\n	/* #navigation { \n			margin: 5px 0 5px 0px;\n			background-color:blanchedalmond ;\n			width:100%;\n	}\n	#navigation ul li {\n		width:10%;\n		background-color: navy;\n		color:white;\n		padding: 5px 0px 5px 0px;\n		display: inline-block;\n		border-right: 1px solid white;\n		text-decoration: none;\n		font-weight: bold;\n\n	}\n	#navigation a:hover{\n		background-color: orange;\n		color:black;\n	}*/\n	#navigation{margin: auto; text-align: center;background-color: navy;}\n	#navigation ul ul { display: none; }\n\n	#navigation ul li:hover > ul { display: block;background: navy; }\n\n	#navigation ul {\n\n	background: #efefef; \n	background: linear-gradient(top, #efefef 0%, #bbbbbb 100%);  \n	background: -moz-linear-gradient(top, #efefef 0%, #bbbbbb 100%); \n	background: -webkit-linear-gradient(top, #efefef 0%,#bbbbbb 100%); \n	box-shadow: 0px 0px 9px rgba(0,0,0,0.15);\n	padding: 0 20px; \n	list-style: none;\n	position: relative;\n	display: inline-table;\n	}\n		#navigation ul:after {\n			content: \"\"; clear: both; display: block;\n		}\n		#navigation ul li {\n		float: left;\n		}\n\n	#navigation ul li:hover {\n		background: #4f5964;\n		background: linear-gradient(top, #4f5964 0%, #5f6975 40%);\n		background: -moz-linear-gradient(top, #4f5964 0%, #5f6975 40%);\n		background: -webkit-linear-gradient(top, #4f5964 0%,#5f6975 40%);\n	}\n		#navigation ul li:hover a {\n			color:orange;\n		}\n	\n	#navigation ul li a {\n		display: block; padding: 25px 40px;\n		color: orange; text-decoration: none;\n	}\n	\n	#navigation ul ul {\n		background: #5f6975; border-radius: 0px; padding: 0;\n		position: absolute; top: 100%;\n	}\n	#navigation ul ul li {\n			float: none; \n			border-top: 1px solid #6b727c;\n			border-bottom: 1px solid #575f6a;\n			position: relative;\n	}\n	#navigation ul ul li a {\n			padding: 15px 40px;\n			color: navy;\n	}\n	#navigation ul ul li a:hover {\n			background: #4b545f;\n		}\n\n	#login{\n		background-color:#A8A8A8 ;\n		width:100%;\n		height:50px;\n		\n	}\n	#login a {\n		width:10%;\n		color:blue;\n		padding: 5px 0px 5px 0px;\n		display: inline-block;\n		border-right: 1px solid white;\n		text-decoration: none;\n		font-weight: bold;\n	}\n	#main{\n			background-color: FFFFCC;\n			width:100%;\n			padding:10px;\n			clear: both; /* No floating elements allowed on either the left or the right side */\n			overflow: hidden; /* Fixed div floating outside the main*/\n	}\n	#announcements{\n			background-color: green;\n			padding:15px;\n			width: 70%;\n			float: left;\n	}\n	.announcement{\n		border-bottom: 1px solid gray;\n	}\n\n	#socialLinks{\n				\n			background-color: white;\n			width:25%;\n			height: 250px;\n			float:right;\n	}\n	#socialLinks{\n		width:30px;\n	}\n\n	#events{\n	\n			background-color: yellow;\n			width: 30%;\n			height: 300px;\n			float:right;\n				\n	}\n	#link{\n			background-color: red;\n			width: 30%;\n			height:350px;\n			float: right;\n\n	}\n	nav ul ul {\n	background: #5f6975; border-radius: 0px; padding: 0;\n	position: absolute; top: 100%;\n	}\n	nav ul ul li {\n		float: none; \n		border-top: 1px solid #6b727c;\n		border-bottom: 1px solid #575f6a;\n		position: relative;\n	}\n	nav ul ul li a {\n			padding: 15px 40px;\n			color: #fff;\n	}	\n	nav ul ul li a:hover {\n				background: #4b545f;\n	}\n	\n	\n	\n</style>\n</head>\n<body>\n\n<!-- HEADER: Quick Links,Logo,Navigation,LogIn  -->\n<div id=\"header\">\n	<div id=\"quickLinks\">\n		<a href=\"\">>School Home</a>\n		<a href=\"\">>Login</a>\n		<a href=\"\">>Help</a>\n		<a href=\"\">>Search</a>\n	</div>\n	<div id=\"logo\">\n		<img src=\"E:\\School_Document\\CS Career\\images\\logo.jpg\" >\n	</div>\n	<div id=\"navigation\">\n		<ul>\n			<li><a href=\"#\">DIRECTORY</a>\n				<ul>\n					<li><a href=\"#\">Faculty and Staff</a></li>\n					<li><a href=\"#\">Class Pages</a></li>\n					<li><a href=\"#\">Group Pages</a></li>\n				</ul>\n			</li>\n			<li><a href=\"#\">Tutorials</a>\n				<ul>\n					<li><a href=\"#\">Photoshop</a></li>\n					<li><a href=\"#\">Illustrator</a></li>\n					<li><a href=\"#\">Web Design</a></li>\n				</ul>\n			</li>\n			<li><a href=\"#\">Articles</a>\n				<ul>\n					<li><a href=\"#\">Web Design</a></li>\n					<li><a href=\"#\">User Experience</a></li>\n				</ul>\n			</li>\n			<li><a href=\"#\">Inspiration</a></li>\n		</ul>\n	</div>\n	<div id=\"login\">\n		<a><p><b>LOGIN</b></p></a>\n		<a><p>>Username:</p></a>\n		<a><p>>Password:</p></a>\n		<a href=\"\">LOGIN</a>\n		<a href=\"\"><sub>Forgot Password</sub></a>\n		<a><p>Need Help?</p></a>\n		<a href=\"\"><sub>English |</sub></a>\n		<a href=\"\"><sub>Espanol</sub></a>\n	</div>\n</div>\n\n<!--Main:Announcements,Social Links,Events,Links,Bayside Publication, Weather -->\n<div id=\"main\">\n	<div id=\"announcement\">\n		<p><b>Daily Announcements</b></p>\n	</div>\n	<div id=\"socialLinks\"></div>\n	<div id=\"events\"></div>\n	<div id=\"links\"></div>\n	<div id=\"baysidePublication\"></div>\n	<div id=\"weather\"></div>\n</div>\n\n<!--Footer:Address,Company Logo,Company Links,Select Language-->\n\n<div id=\"footer\">\n	<div id=\"address\"></div>\n	<!--<p><b>Bayside High School, 3224 Corporal Kennedy Street, Bayside, NY 11361-1061</b></p>\n	<p><b>Phone: (718) 229-7600  |  Fax: (718) 423-9566</b></p>\n	<div id=\"companyLogo\"></div>-->\n\n	<div id=\"companyLinks\"></div>\n	<div id=\"selectLanguage\"></div>\n	\n</div>\n\n<!--\n	#baysidePublication{\n		background-color:bisque;\n		width:100%;\n		height:100px;\n		float:right;}\n	#weather{\n		background-color:lightsalmon;\n		width:100%;\n		height:100px;\n		float:right;}\n	#address{\n		background-color:grey;\n		width:100%;\n		height:100px;}\n	#companyLogo{\n		background-color:grey;\n		width:100%;\n		height:100px;}\n	#companyLinks{\n		background-color:grey;\n		width:100%;\n		height:100px;}\n	#selectLanguage{\n		background-color:grey;\n		width:100%;\n		height:100px;}-->\n</body>\n</html>",
+					"file": "/E/School_Document/CS Career/BaysideHSeChalk/container.html",
+					"file_size": 6248,
+					"file_write_time": 130567359140000000,
+					"settings":
+					{
+						"buffer_size": 5949,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/School_Document/CS Career/container.html",
+				"/C/Users/s1/Desktop/new.html",
+				"/E/pyproject/hello/templates/index.html",
+				"/E/pyproject/hello/templates/user.html",
+				"/E/pyproject/hello/templates/404.html",
+				"/E/pyproject/hello/templates/base.html",
+				"/E/pyproject/hello/hello.py",
+				"/E/pyproject/hello/session.py",
+				"/C/Users/lgao2441/Google Drive/Smash/MyGame.js",
+				"/C/Users/lgao2441/Google Drive/Smash/screens/StartScreen.js",
+				"/C/Users/lgao2441/Google Drive/Smash/index.htm",
+				"/E/TreSensa/Pixsea/Runner/js/game/Level.js",
+				"/E/TreSensa/Pixsea/Runner/js/game/ObjectClasses/Player.js",
+				"/E/TreSensa/Pixsea/Runner/js/game/Screens/GameScreen.js",
+				"/D/Google Drive/Tomatto/screens/Loading.js",
+				"/D/Google Drive/Tomatto/screens/StartScreen.js",
+				"/D/Google Drive/Tomatto/index.htm",
+				"/D/Google Drive/Tomatto/MyGame.js",
+				"/D/Google Drive/Tomatto/screens/GameScreen.js",
+				"/D/Google Drive/Tomatto/Pixsea/Runner/js/game/Screens/StartScreen.js",
+				"/D/Google Drive/Tomatto/Pixsea/Runner/js/lib/playnomics.min.js",
+				"/D/Google Drive/Tomatto/Pixsea/Runner/js/game/ObjectClasses/MovingObstacle.js",
+				"/D/Google Drive/Tomatto/Pixsea/Runner/js/game/Runner.js",
+				"/D/Google Drive/Tomatto/Pixsea/Runner/js/game/Level.js",
+				"/D/Google Drive/Tomatto/ui/GameScreen.js",
+				"/D/Google Drive/Tomatto/Pixsea/Runner/index.html",
+				"/D/Google Drive/Tomatto/Pixsea/Runner/js/GameConfig.js",
+				"/C/Users/Ru/Desktop/Tomatto/js/main.js",
+				"/C/Users/Ru/Documents/tomatto/sprite.js",
+				"/C/Users/Ru/Desktop/Swiffy output.htm",
+				"/D/Downloads/hello-world/hello-world/phaser.min.js",
+				"/D/Downloads/ShowMyCode.com/14009534_script69_MC115F8.as",
+				"/D/Downloads/ShowMyCode.com/14009534_script02_F10.as",
+				"/E/pybird-master/gamelib.py",
+				"/E/TreSensa/Demo1a/ui/GameScreen.js",
+				"/C/Users/lgao2441/Downloads/randomGenProb1 (2).txt",
+				"/E/TreSensa/Demo1b/ui/GameScreen.js",
+				"/E/TreSensa/Demo1b/MyGame.js",
+				"/E/TreSensa/Demo1b/ui/Loading.js",
+				"/E/TreSensa/Demo1a/index.htm",
+				"/E/TreSensa/Demo1a/MyGame.js",
+				"/E/TreSensa/Demo1b/index.htm",
+				"/F/TreSensa/Demo1b/MyGame.js",
+				"/E/sharpvision/css/style.css",
+				"/E/sharpvision/about.html",
+				"/E/sharpvision/style.min.css",
+				"/C/Users/Liang/Desktop/Sharp Vision.htm",
+				"/E/Sharp Vision.htm",
+				"/E/sharpvision/index.html",
+				"/F/sharpvision/css/style.css",
+				"/E/sharpvision/icons.html",
+				"/F/Sharp Vision.htm",
+				"/F/sharpvision/index.html",
+				"/F/Icon/style.min.css",
+				"/F/sharpvision/icons.html",
+				"/F/Icon/Footer w icon_files/css",
+				"/E/sharpvision/js/script.js",
+				"/E/Sharp Vision_files/script.js",
+				"/E/sharpvision/linking.html",
+				"/E/Sharp Vision_files/parallaxslider.css",
+				"/C/Users/lgao2441/Downloads/ParallaxContentSlider/js/jquery.cslider.js",
+				"/E/Sharp Vision_files/jquery.cslider.js",
+				"/C/Users/lgao2441/Downloads/ParallaxContentSlider/js/modernizr.custom.28468.js",
+				"/E/Sharp Vision_files/modernizr.custom.js",
+				"/C/Users/lgao2441/Downloads/ParallaxSlider/css/style.css",
+				"/F/Sharp Vision_files/jquery.cslider.js",
+				"/F/Sharp Vision_files/script.js"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"100",
+					"gotoAndStop",
+					"spriteSheetAnim"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/School_Document/CS Career/BaysideHSeChalk/container.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5949,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										66,
+										66
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,2,3,-1,-1,-1,-1,804,83,255,1100",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 163.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 16,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
